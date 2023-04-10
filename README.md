@@ -6,3 +6,6 @@
 - <i>Eu estou interessada em aprender a programar novas linguagens</i>
 
 - <B>Eu estou aprendeno a progamar em Markdown e HTML</B>
+
+
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
